@@ -1,0 +1,7 @@
+{
+  "name": "MelodyFocus: Pomodoro para Práctica de Piano",
+  "description": "Un temporizador Pomodoro sofisticado para estudiantes de piano, con un entrenador de IA para estructurar sesiones y mejorar la técnica.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
